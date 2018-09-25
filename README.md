@@ -5,7 +5,7 @@ This is a semo of a genomics python package
 
 ## Installation 
 ```
-pip install 
+pip install git+https://github.com/vieirr2/genomics_workshop_demo
 ```
 
 ## Usage 
